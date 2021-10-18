@@ -1,0 +1,13 @@
+server:
+  port: 8030
+
+spring:
+  application:
+    name: spring-service
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka

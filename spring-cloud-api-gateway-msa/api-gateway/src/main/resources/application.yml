@@ -1,0 +1,28 @@
+server:
+  port: 9000
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defalutZone: http://localhost:8761/eureka
+
+spring:
+  application:
+    name: apigateway-service
+  cloud:
+    gateway:
+      routes:
+        - id: spring-service
+          uri: lb://SPRING-SERVICE
+          predicates:
+            - Path=/spring-service/**
+        - id: flask-service
+          uri: lb://FLASK-SERVICE
+          predicates:
+            - Path=/flask-service/**
+        - id: go-service
+          uri: lb://GO-SERVICE
+          predicates:
+            - Path=/go-service/**
