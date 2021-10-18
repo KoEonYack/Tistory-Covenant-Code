@@ -26,3 +26,9 @@ spring:
           uri: lb://GO-SERVICE
           predicates:
             - Path=/go-service/**
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info, metrics, prometheus, gateway
