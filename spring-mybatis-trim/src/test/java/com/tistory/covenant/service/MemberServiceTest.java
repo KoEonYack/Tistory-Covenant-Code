@@ -30,4 +30,23 @@ class MemberServiceTest {
         List<MemberVO> members = memberService.searchMemberV2(null, null);
         assertEquals(members.size(), 2);
     }
+
+    @Test
+    @DisplayName("Trim 조회 (2)")
+    void searchMemberV3() {
+        try{
+            List<MemberVO> members = memberService.searchMemberV3(null, null);
+            assertEquals(members.size(), 2);
+        } catch (Exception e) {
+            System.out.println("e.getMessage() = " + e.getMessage());
+        }
+
+    }
+
+    @Test
+    @DisplayName("<where> 조회")
+    void searchMemberV4() {
+        List<MemberVO> members = memberService.searchMemberV4(null, null);
+        assertEquals(members.size(), 2);
+    }
 }

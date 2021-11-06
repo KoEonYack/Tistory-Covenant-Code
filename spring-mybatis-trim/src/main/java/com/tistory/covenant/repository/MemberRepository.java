@@ -12,4 +12,6 @@ public interface MemberRepository {
     void saveMember(MemberVO memberVO);
     List<MemberVO> getMemberV1(@Param("username") String username, @Param("nickname") String nickname);
     List<MemberVO> getMemberV2(@Param("username") String username, @Param("nickname") String nickname);
+    List<MemberVO> getMemberV3(@Param("username") String username, @Param("nickname") String nickname);
+    List<MemberVO> getMemberV4(@Param("username") String username, @Param("nickname") String nickname);
 }

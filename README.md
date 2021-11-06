@@ -21,5 +21,7 @@
     - [3. 스프링부트 서비스](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-cloud-api-gateway-msa/client-springboot)
     - [4. Go 서비스](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-cloud-api-gateway-msa/client-go)
     - [5. 플라스크 서비스](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-cloud-api-gateway-msa/client-flask)
+- Tistory: [Mybatis WHERE 1=1을 trim으로 변환하면 해결될까?](https://covenant.tistory.com/253)
+    - [spring-mybatis-trim](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-mybatis-trim)
 
 <br />

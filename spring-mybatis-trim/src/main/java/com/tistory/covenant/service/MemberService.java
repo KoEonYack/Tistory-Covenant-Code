@@ -24,4 +24,12 @@ public class MemberService {
     public List<MemberVO> searchMemberV2(String username, String nickname) {
         return memberRepository.getMemberV2(username, nickname);
     }
+
+    public List<MemberVO> searchMemberV3(String username, String nickname) {
+        return memberRepository.getMemberV3(username, nickname);
+    }
+
+    public List<MemberVO> searchMemberV4(String username, String nickname) {
+        return memberRepository.getMemberV4(username, nickname);
+    }
 }
