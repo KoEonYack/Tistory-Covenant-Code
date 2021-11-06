@@ -1,0 +1,6 @@
+server:
+  port: 9999
+
+thread:
+  pool:
+    size: 1
