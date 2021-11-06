@@ -6,6 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.jdbc.BadSqlGrammarException;
 
 import java.util.List;
 
@@ -32,15 +33,18 @@ class MemberServiceTest {
     }
 
     @Test
-    @DisplayName("Trim 조회 (2)")
+    @DisplayName("Trim 조회 (2-1)")
     void searchMemberV3() {
-        try{
-            List<MemberVO> members = memberService.searchMemberV3(null, null);
-            assertEquals(members.size(), 2);
-        } catch (Exception e) {
-            System.out.println("e.getMessage() = " + e.getMessage());
-        }
+        List<MemberVO> members = memberService.searchMemberV3(null, null);
+        assertEquals(members.size(), 2);
+    }
 
+    @Test
+    @DisplayName("Trim 조회 BadSqlGrammarException (2-2)")
+    void searchMemberV3_Exception() {
+        assertThrows(BadSqlGrammarException.class, () -> {
+            memberService.searchMemberV3(null, null);
+        });
     }
 
     @Test
