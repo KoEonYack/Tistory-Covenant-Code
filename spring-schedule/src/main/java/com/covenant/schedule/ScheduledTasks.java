@@ -36,6 +36,7 @@ public class ScheduledTasks {
         log.info("시작시간 - {}", formatter.format(LocalDateTime.now()));
         TimeUnit.SECONDS.sleep(5);
         log.info("종료시간 - {}", formatter.format(LocalDateTime.now()));
+        Integer.parseInt("3");
     }
 
 //    @Scheduled(fixedRate = 3000, initialDelay = 5000)
