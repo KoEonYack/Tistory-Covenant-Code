@@ -25,6 +25,8 @@
     - [spring-mybatis-trim](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-mybatis-trim)
 - Tistory: [스프링 부트에서 Schedule 사용하기](https://covenant.tistory.com/254)
     - [spring-schedule](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-schedule)
+- Tistory: [완벽정리! LocalDateTime을 살펴보자](https://covenant.tistory.com/255)
+    - [java-localdatetime](hhttps://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-localdatetime)
 
 
 <br />
