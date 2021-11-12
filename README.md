@@ -26,7 +26,8 @@
 - Tistory: [스프링 부트에서 Schedule 사용하기](https://covenant.tistory.com/254)
     - [spring-schedule](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-schedule)
 - Tistory: [완벽정리! LocalDateTime을 살펴보자](https://covenant.tistory.com/255)
-    - [java-localdatetime](hhttps://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-localdatetime)
-
+    - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-localdatetime)
+- Tistory: [완벽정리! Junit5로 예외 테스트하는 방법](https://covenant.tistory.com/256)
+    - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-junit5-exception)
 
 <br />
