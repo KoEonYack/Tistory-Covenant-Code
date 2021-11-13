@@ -1,4 +1,4 @@
-package covenant.hexagonal.bank.application.domain;
+package covenant.hexagonal.bank.domain;
 
 import lombok.Builder;
 

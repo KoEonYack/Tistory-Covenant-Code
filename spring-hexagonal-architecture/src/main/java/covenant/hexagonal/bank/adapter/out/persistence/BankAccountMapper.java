@@ -1,6 +1,6 @@
 package covenant.hexagonal.bank.adapter.out.persistence;
 
-import covenant.hexagonal.bank.application.domain.BankAccount;
+import covenant.hexagonal.bank.domain.BankAccount;
 import org.springframework.stereotype.Component;
 
 @Component

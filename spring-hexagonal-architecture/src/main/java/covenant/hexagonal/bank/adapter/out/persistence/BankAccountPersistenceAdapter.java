@@ -2,7 +2,7 @@ package covenant.hexagonal.bank.adapter.out.persistence;
 
 import covenant.hexagonal.bank.application.port.out.LoadAccountPort;
 import covenant.hexagonal.bank.application.port.out.SaveAccountPort;
-import covenant.hexagonal.bank.application.domain.BankAccount;
+import covenant.hexagonal.bank.domain.BankAccount;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 

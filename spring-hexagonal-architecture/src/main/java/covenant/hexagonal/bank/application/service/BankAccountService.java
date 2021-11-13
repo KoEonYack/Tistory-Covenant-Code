@@ -1,6 +1,6 @@
 package covenant.hexagonal.bank.application.service;
 
-import covenant.hexagonal.bank.application.domain.BankAccount;
+import covenant.hexagonal.bank.domain.BankAccount;
 import covenant.hexagonal.bank.application.port.in.DepositUseCase;
 import covenant.hexagonal.bank.application.port.in.WithdrawUseCase;
 import covenant.hexagonal.bank.application.port.out.LoadAccountPort;
