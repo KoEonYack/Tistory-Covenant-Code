@@ -29,5 +29,8 @@
     - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-localdatetime)
 - Tistory: [완벽정리! Junit5로 예외 테스트하는 방법](https://covenant.tistory.com/256)
     - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-junit5-exception)
+- Tistory: [스프링 코드로 이해하는 핵사고날 아키텍처](https://covenant.tistory.com/258)
+    - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-hexagonal-architecture)
+
 
 <br />
