@@ -30,7 +30,9 @@
 - Tistory: [완벽정리! Junit5로 예외 테스트하는 방법](https://covenant.tistory.com/256)
     - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-junit5-exception)
 - Tistory: [스프링 코드로 이해하는 핵사고날 아키텍처](https://covenant.tistory.com/258)
-    - [java-localdatetime](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-hexagonal-architecture)
+    - [spring-hexagonal-architecture](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-hexagonal-architecture)
+- Tistory: [완벽정리! 자바 문자열 배열을 문자열로 합치는 방법](https://covenant.tistory.com/259)
+    - [java-convert-array-to-string](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-convert-array-to-string/src)
 
 
 <br />
