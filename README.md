@@ -35,6 +35,7 @@
     - [java-convert-array-to-string](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-convert-array-to-string/src)
 - Tistory: [JPA 1대 N 양방향 연관관계 매핑 및 생성 API 만들기](https://covenant.tistory.com/260)
     - [spring-jpa-one-to-many-mapping](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-jpa-one-to-mamy-mapping)
-
+- Tistory: [완벽정리! 자바 string 문자열을 배열로 분리하기](https://covenant.tistory.com/261)
+    - [java-split-string](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-split-string/src)
 
 <br />
