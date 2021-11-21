@@ -33,6 +33,8 @@
     - [spring-hexagonal-architecture](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-hexagonal-architecture)
 - Tistory: [완벽정리! 자바 문자열 배열을 문자열로 합치는 방법](https://covenant.tistory.com/259)
     - [java-convert-array-to-string](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/java-convert-array-to-string/src)
+- Tistory: [JPA 1대 N 양방향 연관관계 매핑 및 생성 API 만들기](https://covenant.tistory.com/260)
+    - [spring-jpa-one-to-many-mapping](https://github.com/KoEonYack/Tistory-Covenant-Code/tree/main/spring-jpa-one-to-mamy-mapping)
 
 
 <br />

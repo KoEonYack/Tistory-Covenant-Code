@@ -5,7 +5,6 @@ import com.covenant.onetomany.domain.Stone;
 import com.covenant.onetomany.dto.PocketDTO;
 import com.covenant.onetomany.dto.StoneDTO;
 import com.covenant.onetomany.repository.PocketRepository;
-import com.covenant.onetomany.repository.StoneRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
