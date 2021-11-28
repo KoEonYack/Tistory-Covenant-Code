@@ -1,0 +1,18 @@
+# 읽기 자료
+- https://warpgate3.tistory.com/130
+- https://www.baeldung.com/spring-boot-ehcache
+- https://brush-up.github.io/java/java-springboot-ehcache/
+- https://prohannah.tistory.com/88
+- spring 제공 캐시
+  - https://shinsunyoung.tistory.com/50
+- key 사용
+    - https://stove99.github.io/java/2019/08/01/springboot-with-ehcache/
+- debug 사용
+    - https://ichi.pro/ko/spring-boot-ui-ehcache-guseong-24384497240822
+- logger
+    - https://howtodoinjava.com/spring-boot2/ehcache3-config-example/
+- 보고 있는것
+    - https://dimitr.im/spring-boot-cache-ehcache
+- cache2
+    - https://tram-devlog.tistory.com/entry/Spring-EhCache-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0
+    - https://jojoldu.tistory.com/57
