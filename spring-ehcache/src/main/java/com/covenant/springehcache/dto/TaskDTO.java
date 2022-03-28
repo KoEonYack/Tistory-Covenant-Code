@@ -1,4 +1,4 @@
-package com.covenant.springehcache;
+package com.covenant.springehcache.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
